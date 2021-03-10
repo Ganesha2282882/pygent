@@ -18,7 +18,7 @@ You can base the app out of this:
 > pygent.run()
 > ```
 ##
-# Characters:
+# Characters
 Available characters are:
 > - `konqi`
 > - `firefox`
